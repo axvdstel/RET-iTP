@@ -29,7 +29,7 @@ def log(string):
 
 
 #######################  INITITALIZING   #################################################
-log(Start Initializitaion...)
+log('Start Initializitaion...')
 
 sample_list = [RET_1_path, RET_2_path, control_1_path, control_2_path, library_path]
 
@@ -74,7 +74,7 @@ CDS_plus, CDS_min = CDS()
 
 
 
-log(Initiatlization complete)
+log('Initiatlization complete')
 
 #################### ADAPTER CHOPPPING ##################################
 log('STARTING ADAPTER_TRIM')
