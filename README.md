@@ -14,3 +14,6 @@ biopython
 matplotlib
 numpy
 pandas
+
+Code written by Anne-Xander van der Stel
+within the INNIS lab Bordeaux (innislab.org)
